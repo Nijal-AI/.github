@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center" href="https://nijal.ai">
-  <img src="logo.png" alt="Logo Nijal AI" width="200"/>
+  <img src="logo.png" alt="Logo Nijal AI" width="500"/>
 </p>
 
 ---
