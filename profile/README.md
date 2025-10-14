@@ -13,6 +13,10 @@
     <a href="https://www.youtube.com/@nijal-ai">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto" />
     </a>
+    <a href="https://huggingface.co/organizations/Nijal-AI">
+        <img src="https://img.shields.io/badge/HugingFace-FFCE4D?style=for-the-badge&logo=huggingface&logoColor=white&logoSize=auto" />
+    </a>
+    
   </p>
   
 ---
