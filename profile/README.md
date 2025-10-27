@@ -16,7 +16,9 @@
     <a href="https://huggingface.co/Nijal-AI">
         <img src="https://img.shields.io/badge/HugingFace-FFCE4D?style=for-the-badge&logo=huggingface&logoColor=white&logoSize=auto" />
     </a>
-    
+    <a href="https://discord.gg/2MhuyJAv">
+        <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto" />
+    </a>    
   </p>
   
 ---
@@ -43,4 +45,9 @@ Nous concevons des agents intelligents autonomes pour redonner du temps aux équ
 
 Serveur MCP de la région de Brest, facilitant l'accès des données publics au agent IA, avec inspection intégrée et un agent IA accessible via A2A (agent-to-agent).  
 👉 [Voir le projet sur GitHub](https://github.com/Nijal-AI/brest-mcp-server)
+
+### **Brest RAG (Retrieval Augmented Generation)** – *Nijal-AI/brest-rag*
+
+Chatbot RAG permettant de réaliser des recherches documentaires sur la région de Brest, facilitant la recherche d'informations, et intégrant un pipeline RAG avec Guardrail, reranking, contextualisation et pipeline d'ingestion.
+👉 [Voir le projet sur GitHub](https://github.com/Nijal-AI/brest-rag)
 
